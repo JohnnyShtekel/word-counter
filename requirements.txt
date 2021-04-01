@@ -1,0 +1,6 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+requests==2.25.1
+redis==3.5.3
+pytest==5.0.1
+flask-restful-swagger==0.20.2
